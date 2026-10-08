@@ -5,3 +5,4 @@ pymongo==4.8.0
 python-dotenv==1.0.1
 pydantic==2.8.2
 pydantic-settings==2.3.4
+motor
